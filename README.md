@@ -1,9 +1,8 @@
 # TypeScript-
 
-var ratio = 0,
+            var ratio = 0,
             screen = window.screen,
             ua = navigator.userAgent.toLowerCase();
-
         if (window.devicePixelRatio !== undefined) {
             ratio = window.devicePixelRatio;
         }
